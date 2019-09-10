@@ -1,0 +1,30 @@
+[33mcommit 2b87395374a2c6678bf315c041c713bb3694828a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: c38aa94 ddea121
+Author: ewa1980 <egiedziun@o2.pl>
+Date:   Tue Sep 10 18:38:56 2019 +0200
+
+    Merge branch 'master' of github.com:egiedziun/repo-6
+
+[33mcommit c38aa94004fd7882f9017caa0dfa3e7bb1f0348d[m
+Author: ewa1980 <egiedziun@o2.pl>
+Date:   Tue Sep 10 18:22:19 2019 +0200
+
+    gitignore
+
+[33mcommit ddea12192ce77053b28957814d38004854113b7f[m
+Author: egiedziun <egiedziun@gmail.com>
+Date:   Mon Sep 9 20:24:15 2019 +0200
+
+    Create githubfile
+
+[33mcommit a95ed61664e9eed1984b3e855179425af1854230[m[33m ([m[1;33mtag: wersja_1[m[33m)[m
+Author: ewa1980 <egiedziun@o2.pl>
+Date:   Mon Sep 9 20:02:24 2019 +0200
+
+    My second commit
+
+[33mcommit 3c655e1fb823a69a01a1466c58a426443605532f[m
+Author: ewa1980 <egiedziun@o2.pl>
+Date:   Mon Sep 9 19:49:55 2019 +0200
+
+    My first commit
